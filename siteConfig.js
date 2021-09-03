@@ -1,6 +1,6 @@
 module.exports = {
     // Do not include a trailing slash!
-    siteUrl: `https://demo.jamify.org`,
+    siteUrl: `https://gatsbystartertryghost28933.gatsbyjs.io/`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
@@ -26,5 +26,4 @@ module.exports = {
 
     // Severity for verbose mode: (`info`, `warn`, `error`)
     severity: `info`,
-
-}
+};
